@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlickTrainer", "FlickTrainer\FlickTrainer.csproj", "{46A4F02E-C1A6-42E4-BD49-24EF6C5F9D9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46A4F02E-C1A6-42E4-BD49-24EF6C5F9D9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46A4F02E-C1A6-42E4-BD49-24EF6C5F9D9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46A4F02E-C1A6-42E4-BD49-24EF6C5F9D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46A4F02E-C1A6-42E4-BD49-24EF6C5F9D9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2552E05A-3D54-4A6C-8A8D-C46E1A09A211}
+	EndGlobalSection
+EndGlobal
